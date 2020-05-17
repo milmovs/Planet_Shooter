@@ -1,6 +1,6 @@
 import pygame
 import math
-import random #
+import random
 import copy
 
 WIDTH = 720
