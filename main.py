@@ -510,7 +510,6 @@ def game_loop():
 
         pygame.display.update()
 
-
 while True:
     score, winorlose = game_loop()
     end_screen(score, winorlose)
